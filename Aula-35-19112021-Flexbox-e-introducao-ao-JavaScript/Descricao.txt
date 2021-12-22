@@ -1,0 +1,2 @@
+Conteudo da Aula:
+Na aula de hoje os alunos serão apresentados ao conceito de flexbox além de começarem os estudos sobre JavaScript
