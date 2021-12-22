@@ -1,0 +1,2 @@
+Conteudo da Aula:
+Os alunos irão participar de uma atividade pratica focada em CSS
